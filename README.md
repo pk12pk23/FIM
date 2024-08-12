@@ -1,4 +1,4 @@
-# python_Flood_analysis
+# python_Flood_Inundation_mapping
 1. work directory==script location
 
 2. initial pkg == GDAL, numpy, geopandas, matplotlib
